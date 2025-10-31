@@ -50,13 +50,6 @@ Development of an IoT system for aircraft engine vibration monitoring using Fast
 
 ---
 
-## 📊 GitHub Stats  
-
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davigama&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davigama&layout=compact&theme=tokyonight)
-
----
-
 ## 🏆 Highlights  
 
 - 💼 **3+ year** experience in backend and data automation  
